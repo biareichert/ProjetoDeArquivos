@@ -1,0 +1,13 @@
+563 Ana 372484 6640.00 35 Quimica #
+2252 Rodrigo 192282 5110.00 36 Letras #
+8082 Luis 445611 8380.00 96 Computacao #
+4588 Maria 917829 8351.00 13 Quimica #
+7188 Clara 419384 8799.00 86 Medicina #
+3474 Clara 512123 6683.00 48 Fisica #
+1728 Flora 548898 2079.00 23 Direito #
+9353 Marcia 534275 5826.00 10 Engenharia #
+6319 Julia 914828 8022.00 55 Computacao #
+3800 Luisa 739783 8694.00 23 Computacao #
+7791 Pedro 471474 8867.00 76 Fisica #
+1030 Maria 200862 8026.00 55 Odontologia #
+4567 Lara 787824 7873.00 16 Engenharia #                         
